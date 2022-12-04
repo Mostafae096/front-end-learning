@@ -13,8 +13,15 @@ and decided to start writing without videos so I made facebook login page it loo
 and decided to collect all css properties from those projects and make a list of them to continue adding to it
 
 
-| OK                   | need to look it up      | FUCK                    |
-| ---------------------|:-----------------------:| -----------------------:|
-| col 3 is             | right-aligned           | $1600                   |
-| col 2 is             | centered                |   $12                   |
-| zebra stripes        | are neat                |    $1                   |
+# OK
+margin, background, font-family,padding,font-weight,border-radius,letter-spacing,color,opacity, line-height, font-size
+
+# need to look somthing up or need practice
+text-decoration, text-transform, text-align, cursor, z-index, stroke
+
+# don't Know
+box-sizing, float, box-shadow, gap, place-content, list-style-type, grid-template-columns, justify-content, animation, transition: transform, grid-template-columns, grid-template-areas, justify-self, clip-path, transform, flex-direction
+
+# FUCK
+display
+position
