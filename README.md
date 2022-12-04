@@ -11,3 +11,10 @@ which still have a lot of videos I wanna check out
 and i finished digital clock project from this video 'https://www.youtube.com/watch?v=EWv2jnhZErc&t=11495s'
 and decided to start writing without videos so I made facebook login page it looks horrible but it gets the job done
 and decided to collect all css properties from those projects and make a list of them to continue adding to it
+
+
+| OK                   | need to look it up      | FUCK                    |
+| ---------------------|:-----------------------:| -----------------------:|
+| col 3 is             | right-aligned           | $1600                   |
+| col 2 is             | centered                |   $12                   |
+| zebra stripes        | are neat                |    $1                   |
